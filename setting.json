@@ -21,7 +21,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"upi.com",
+      "target":"www.upi.com",
       "element-remove-selector":[
 	    
         ".js-dismissable-hero",
