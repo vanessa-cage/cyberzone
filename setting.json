@@ -21,22 +21,8 @@
   ],
   "costom-element-remove":[
     {
-      "target":"www.upi.com",
-      "element-remove-selector":[    
-        ".js-dismissable-hero",
-        ".lazy-loading"
-      ],
-      "replace-string":[
-        {
-          "target":"https://www.upi.com",
-          "replace":"${nameWeb}"
-        }
-      ]
-    },
-    {
       "target":"gamesradar.com",
-      "element-remove-selector":[
-	    
+      "element-remove-selector":[	    
         ".baca",
         ".op-interactive",
         "#iklan_anchor",
