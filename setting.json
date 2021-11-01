@@ -23,7 +23,7 @@
     {
       "target":"upi.com",
       "element-remove-selector":[
-	    ".site-logo",
+	    
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
@@ -37,7 +37,7 @@
     {
       "target":"gamesradar.com",
       "element-remove-selector":[
-	    ".site-logo",
+	    
         ".baca",
         ".op-interactive",
         "#iklan_anchor",
