@@ -22,8 +22,7 @@
   "costom-element-remove":[
     {
       "target":"www.upi.com",
-      "element-remove-selector":[
-	    
+      "element-remove-selector":[    
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
@@ -53,6 +52,21 @@
     },
   
   "inject-element-head":[
+   {
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
+          "value-attribute":"google-site-verification"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"biniRb1toYxZXdxqWSF09eY3u1KiLTHpxSt13faeXxI"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+    },
     {
       "name-element":"meta",
       "data-attribute":[
